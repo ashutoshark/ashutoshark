@@ -1,5 +1,8 @@
 # 💫 About Me:
-B.Tech Computer Science graduate from Gurukul Kangri Deemed to be University with a solid academic record (8.71 CGPA) and strong foundation in core CS subjects like DSA, OOP, DBMS, and OS<br>Proficient in backend development using Java, Spring Boot, Hibernate, and MySQL, with hands-on experience building scalable web applications<br>Developed multiple real-world projects including an Online Exam Portal and an ML-based Crop Recommendation System achieving ~97% accuracy<br>Completed internship at KodNest where you contributed to a Student Work Management system used by 50+ users and worked in an agile team environment<br>Strong problem-solving skills demonstrated by solving 300+ coding problems across platforms like LeetCode, GeeksforGeeks, and HackerRank<br>High-performing candidate with top percentile scores (99th percentile in AMCAT Software Engineering), showing strong analytical and technical capabilities<br><br>
+- B.Tech in Computer Science with strong fundamentals in DSA, OOP, DBMS, and OS (CGPA: 8.71)
+- Backend developer skilled in Java, Spring Boot, Hibernate, and MySQL with hands-on experience building scalable applications
+- Built real-world projects including an Online Exam Portal and an ML-based Crop Recommendation System (~97% accuracy)
+- Strong problem-solving skills with 300+ coding problems solved and 99th percentile in AMCAT Software Engineering
 
 
 ## 🌐 Socials:
